@@ -72,7 +72,7 @@ Write a program that:
 ### Example:
 | Input       | Output                                      |
 |-------------|---------------------------------------------|
-| Desislava   | Customer: Desislava Topuzakova (d.topuzakova@softuni.bg) |
+| Desislava   | Customer: Desislava Ivanova (d.ivanova@abv.bg) |
 | Topuzakova  |                                             |
 | d.topuzakova@softuni.bg |                               |
 | Ivan        | Customer: Ivan Ivanov (i.ivanov@abv.bg)    |
@@ -89,7 +89,7 @@ Write a program to read and print info about a person:
 ### Example:
 | Input         | Output                                       |
 |---------------|----------------------------------------------|
-| Desislava     | Desislava Topuzakova from Bulgaria – Stara Zagora! |
+| Desislava     | Desislava Ivanova from Bulgaria – Stara Zagora! |
 | Topuzakova    |                                              |
 | Bulgaria      |                                              |
 | Stara Zagora  |                                              |
